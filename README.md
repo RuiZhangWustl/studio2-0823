@@ -11,8 +11,6 @@ Students:
 
 Question Answers:
 
-2.
-
 2. hello world
 3. 0
 4. 'cout' & 'endl'
