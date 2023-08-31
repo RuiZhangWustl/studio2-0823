@@ -5,13 +5,14 @@ Repository for submitting studio work
 Students:
 
 1. Rui Zhang<rui.zhang@wustl.edu>
-2. 
-3. 
-4. 
+2.
+3.
+4.
 
 
 Question Answers:
-2. 
+
+2.
 
 2. hello world
 3. 0
